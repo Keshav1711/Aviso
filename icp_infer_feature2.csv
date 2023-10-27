@@ -1,0 +1,501 @@
+AccountID,Type,BillingState,BillingCountry,AccountSource,Account_Status__c,ARR__c,EmployeesRange__c,Industry__c,SalesTargetAccount__c,SalesTeam__c,SalesTerritoryAE__c,OpenOpportunities__c,NumberofSessions__c,Industry_Score__c,EmployeeRangeScore__c,Engagement_Score__c,IsABM__c,Do_No_Contact__c
+0012o00002h2atI,Partner,al qahirah,egypt,Marketing,Partner,0.0,101-1000,Consulting & Business Services,false,EMEA W,Middle East,0.0,114.0,50.0,0.0,0.0,false,false
+0012o00002h2eTW,Standard,BARCELONA,Spain,,Business,0.0,101-1000,Insurance,true,EMEA W,Mediterranean,0.0,1.0,100.0,0.0,0.0,false,false
+0012o00002h2hYh,Standard,california,Germany,,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002h2ck1,Standard,Athens,Greece,Marketing,Business,0.0,5001-10.000,"Telecommunications, Media & Entertainment",true,EMEA W,Mediterranean,0.0,2.0,100.0,0.0,0.0,false,false
+0012o00002h2b8L,Standard,ZUG,Germany,Marketing,Business,0.0,101-1000,Logistics & Transportation,false,DACH,DACH - Logistics,0.0,4.0,75.0,0.0,0.0,false,false
+0012o00002h2gwu,Standard,,germany,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,1.0,0.0,0.0,0.0,false,false
+0012o00002h2eAs,Partner,belgrade,serbia,Community,Partner,0.0,21-100,Software & Technology,false,EMEA W,RoW - E Europe,0.0,67.0,100.0,0.0,0.0,false,false
+0012o00002i7QZh,Standard,,,,Business,0.0,,,false,,,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002i7QZo,Standard,wisconsin,united states,Marketing,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,317.0,50.0,50.0,2.0,false,false
+0012o00002h2dZx,Standard,delhi,india,Marketing,Business,0.0,21-100,,false,APAC,RoW - APAC (Other),0.0,6.0,0.0,0.0,0.0,false,false
+0012o00002i7QZk,Standard,pennsylvania,united states,Marketing,Business,0.0,1001-5000,Software & Technology,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,656.0,100.0,50.0,14.0,false,false
+0012o00002i7QZj,Standard,,,,Business,0.0,,,false,,,0.0,1.0,0.0,0.0,0.0,false,false
+0012o00002i7QZp,Standard,Texas,United States,Marketing,Business,0.0,10.000+,Utilities,false,NA - Enterprise,NA - South - Enterprise,0.0,79.0,100.0,100.0,0.0,false,false
+0012o00002i7QZu,Standard,,,,Business,0.0,,,false,,,0.0,55.0,0.0,0.0,2.0,false,false
+0012o00002h34Kp,Standard,Tamil Nadu,United Arab Emirates,SDR,Business,0.0,1001-5000,Banking & Financial Services,false,EMEA W,Middle East,0.0,3.0,100.0,50.0,0.0,false,false
+0012o00002i7QZi,Standard,QUEBEC,Canada,,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - Canada - Enterprise,0.0,88.0,50.0,100.0,0.0,false,false
+0012o00002i7QZn,Standard,Minnesota,United States,,Business,0.0,10.000+,Banking & Financial Services,false,NA - Enterprise,NA - Central Enterprise,0.0,27.0,100.0,100.0,5.0,false,false
+0012o00002h2hCF,Standard,nordrhein-westfalen,germany,Marketing,Business,0.0,21-100,Software & Technology,false,DACH,DACH - Whitepatch <5K,0.0,2.0,100.0,0.0,0.0,false,false
+0012o00002h2xdg,Partner,,Colombia,,Partner,0.0,1001-5000,Software & Technology,true,N/A,RoW - LATAM,0.0,26.0,100.0,50.0,0.0,false,false
+0012o00002h2xeF,Standard,PARMA,Italy,,Business,0.0,1001-5000,Banking & Financial Services,true,EMEA W,Mediterranean,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h2hlH,Standard,Bavaria,Germany,Marketing,Business,0.0,101-1000,Consulting & Business Services,false,DACH,DACH - Whitepatch <5K,0.0,1.0,50.0,0.0,0.0,false,false
+0012o00002h30fA,Standard,overijssel,netherlands,Marketing,Business,0.0,21-100,Software & Technology,false,EMEA W,Benelux - Software & Consulting,0.0,8.0,100.0,0.0,3.0,false,false
+0012o00002i7QaP,Standard,Tamil Nadu,India,,Business,0.0,Less than 20,,false,APAC,RoW - APAC (Other),0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002h2ck2,Standard,kentriki makedonia,Greece,Zoominfo,Business,0.0,1001-5000,Manufacturing,true,EMEA W,Mediterranean,0.0,3.0,50.0,50.0,0.0,false,false
+0012o00002h2cxR,Standard,roma,italy,Marketing,Business,0.0,Less than 20,,false,EMEA W,Mediterranean,0.0,10.0,0.0,0.0,0.0,false,false
+0012o00002h2e3c,Standard,,united kingdom,Marketing,Business,0.0,Less than 20,,false,EMEA N,UKI - Software & Technology,0.0,30.0,0.0,0.0,0.0,false,false
+0012o00002h2hcj,Standard,,germany,,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,2.0,0.0,0.0,0.0,false,false
+0012o00002i7QZs,Partner,MA,United States,,Partner,0.0,21-100,Software & Technology,false,,,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPFz4,Standard,Illinois,United States,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002h2flD,Partner,,Germany,Marketing,Partner,0.0,21-100,Consulting & Business Services,false,DACH,N/A,0.0,119.0,50.0,0.0,0.0,false,false
+0012o00002h2hwZ,Standard,zurich,switzerland,,Business,0.0,1001-5000,Logistics & Transportation,false,DACH,DACH - Logistics,0.0,5.0,75.0,50.0,0.0,false,false
+0012o00002h2ibt,Standard,rheinland-pfalz,germany,,Business,0.0,101-1000,Insurance,false,DACH,DACH - Insurance <5K,0.0,3.0,100.0,0.0,0.0,false,false
+0012o00002h2j2y,Standard,North Rhine-Westphalia,Germany,Zoominfo,Business,0.0,10.000+,Utilities,false,DACH,DACH - Utilities,0.0,27.0,100.0,100.0,0.0,false,false
+0012o00002h2haY,Standard,,Switzerland,,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,208.0,0.0,0.0,0.0,false,false
+0012o00002h2zys,Standard,zurich,switzerland,SDR,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002h3GUY,Standard,,united kingdom,,Business,0.0,1001-5000,,false,EMEA N,UKI - Software & Technology,0.0,8.0,0.0,50.0,0.0,false,false
+0012o00002sPFz8,Standard,New York,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h2a1w,Standard,brandenburg,Germany,SDR,Business,0.0,101-1000,"Telecommunications, Media & Entertainment",false,DACH,DACH - Telco & Media <5K,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002h2dWo,Standard,hong kong,hong kong,Marketing,Business,0.0,10.000+,Software & Technology,false,APAC,RoW - APAC (Prio),0.0,2.0,100.0,100.0,0.0,false,false
+0012o00002h2icy,Partner,delhi,india,,Partner,0.0,Less than 20,Software & Technology,false,APAC,RoW - APAC (Other),0.0,44.0,100.0,0.0,0.0,false,false
+0012o00002h3Egu,Standard,bern,Switzerland,Marketing,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",false,DACH,DACH - Telco & Media 5K+,0.0,13.0,100.0,100.0,3.0,false,false
+0012o00002sPFyq,Standard,Georgia,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h2hDS,Standard,bayern,germany,Marketing,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002i7QZt,Standard,,,,Business,0.0,,,false,,,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002i7QaG,Partner,Victoria,Australia,,Partner,0.0,21-100,Consulting & Business Services,false,APAC,RoW - APAC (Prio),0.0,19.0,50.0,0.0,0.0,false,false
+0012o00002h3Fr3,Standard,Berlin,Germany,Unknown,Business,0.0,1001-5000,Automotive,false,DACH,DACH - Automotive,0.0,3.0,50.0,50.0,0.0,false,false
+0012o00002h2eSx,Standard,MADRID,Spain,Marketing,Business,0.0,10.000+,Insurance,true,EMEA W,Mediterranean,0.0,6.0,100.0,100.0,0.0,false,false
+0012o00002h2j9L,Standard,North Rhine-Westphalia,Germany,Zoominfo,Business,0.0,10.000+,Manufacturing,false,DACH,DACH - Manufacturing,0.0,34.0,50.0,100.0,0.0,false,false
+0012o00002h2fjC,Standard,Lower Saxony,Germany,Zoominfo,Business,0.0,101-1000,Insurance,false,DACH,DACH - Insurance <5K,0.0,6.0,100.0,0.0,0.0,false,false
+0012o00002i7QZl,Standard,,,,Business,0.0,5001-10.000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - West Corporate,0.0,78.0,0.0,0.0,1.0,false,false
+0012o00002h30aA,Standard,wien,austria,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,4.0,0.0,0.0,0.0,false,false
+0012o00002h3143,Standard,hessen,germany,Marketing,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,20.0,50.0,50.0,0.0,false,false
+0012o00002i7QZx,Standard,Texas,United States,,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - South - Enterprise,0.0,0.0,50.0,100.0,3.0,false,false
+0012o00002h30gD,Standard,VIKEN,Norway,Marketing,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",true,EMEA N,RoW - Nordics,0.0,10.0,100.0,100.0,0.0,false,false
+0012o00002sPFym,Standard,Texas,United States,HG Insights,Business,0.0,10.000+,"Public Sector, Government, Education",false,NA - Enterprise,NA - South - Enterprise,0.0,0.0,0.0,100.0,0.0,false,false
+0012o00002sPFys,Standard,California,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002i7QZm,Standard,SAO PAULO,Brazil,,Business,0.0,10.000+,Retail,false,NA - Corporate & LATAM,RoW - LATAM,0.0,1.0,50.0,100.0,0.0,false,false
+0012o00002h2iU2,Standard,schleswig-holstein,germany,Zoominfo,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,4.0,0.0,0.0,0.0,false,false
+0012o00002h2zyt,Standard,uusimaa,finland,Marketing,Business,0.0,Less than 20,,false,EMEA N,RoW - Nordics,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002i7QaD,Standard,British Columbia,Canada,,Business,0.0,101-1000,Utilities,false,NA - Corporate & LATAM,NA - Canada - Corporate,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002h3FM6,Standard,mazowieckie,poland,Marketing,Business,0.0,21-100,Consulting & Business Services,false,EMEA W,RoW - E Europe,0.0,16.0,50.0,0.0,0.0,false,false
+0012o00002sPFzC,Standard,Pennsylvania,United States,HG Insights,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",false,NA - Enterprise,NA - DC Metro - Enterprise,0.0,24.0,100.0,100.0,0.0,false,false
+0012o00002h31Li,Standard,,,,Business,0.0,1001-5000,Banking & Financial Services,true,N/A,,0.0,4.0,100.0,50.0,0.0,false,false
+0012o00002sPFyk,Standard,Kentucky,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h3Fub,Standard,hovedstaden,denmark,,Business,0.0,Less than 20,,false,EMEA N,RoW - Nordics,0.0,2.0,0.0,0.0,0.0,false,false
+0012o00002h3GMU,Standard,,Finland,,Business,0.0,Less than 20,"Telecommunications, Media & Entertainment",false,EMEA N,RoW - Nordics,0.0,7.0,100.0,0.0,0.0,false,false
+0012o00002sPFyz,Standard,New York,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - Northeast Enterprise,0.0,3.0,50.0,100.0,0.0,false,false
+0012o00002h3GtD,Standard,Baden-W\u00fcrttemberg,Germany,Marketing,Business,0.0,101-1000,Insurance,false,DACH,DACH - Insurance <5K,0.0,8.0,100.0,0.0,0.0,false,false
+0012o00002sPFzA,Standard,Texas,United States,HG Insights,Business,0.0,10.000+,Consulting & Business Services,false,NA - Enterprise,NA - South - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPFzF,Standard,New Jersey,United States,HG Insights,Business,0.0,5001-10.000,Retail,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h2dh2,Standard,\u00cele-de-France,france,Marketing,Business,0.0,21-100,Software & Technology,false,EMEA W,France - Other,0.0,81.0,100.0,0.0,0.0,false,false
+0012o00002h30PM,Standard,western cape,south africa,Marketing,Business,0.0,10.000+,Banking & Financial Services,false,EMEA W,Africa,0.0,63.0,100.0,100.0,2.0,false,false
+0012o00002h2oha,Standard,ile-de-france,Germany,Marketing,Business,0.0,1001-5000,Retail,false,DACH,DACH - Retail,0.0,272.0,50.0,50.0,7.0,false,false
+0012o00002h3148,Standard,distrito capital,colombia,,Business,0.0,10.000+,Software & Technology,false,NA - Corporate & LATAM,RoW - LATAM,0.0,5.0,100.0,100.0,0.0,false,false
+0012o00002h34qn,Standard,Baden-W\u00fcrttemberg,Germany,Community,Business,0.0,1001-5000,Automotive,false,DACH,DACH - Automotive,0.0,70.0,50.0,50.0,0.0,false,false
+0012o00002sPFyn,Standard,Virginia,United States,HG Insights,Business,0.0,10.000+,Banking & Financial Services,false,NA - Enterprise,NA - DC Metro - Enterprise,0.0,1.0,100.0,100.0,0.0,false,false
+0012o00002h3MlV,Standard,maharashtra,india,,Business,0.0,5001-10.000,Manufacturing,false,APAC,RoW - APAC (Other),0.0,1.0,50.0,0.0,0.0,false,false
+0012o00002sPFzD,Standard,New Jersey,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPFzH,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPKGb,Standard,Utah,United States,HG Insights,Business,0.0,1001-5000,"Life Sciences, Pharma, & Biotech",false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPFyr,Standard,Louisiana,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,2.0,50.0,50.0,0.0,false,false
+0012o00002h3GPd,Standard,michigan,italy,Marketing,Business,0.0,101-1000,Software & Technology,false,EMEA W,Mediterranean,0.0,88.0,100.0,0.0,1.0,false,false
+0012o00002h3HEu,Standard,zurich,switzerland,Marketing,Business,0.0,21-100,Insurance,false,DACH,DACH - Insurance <5K,0.0,2.0,100.0,0.0,0.0,false,false
+0012o00002sPFz9,Standard,Ohio,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h310Q,Standard,Geneva,Switzerland,Zoominfo,Business,0.0,1001-5000,Consulting & Business Services,false,DACH,DACH - Whitepatch <5K,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002i7QaS,Standard,Texas,United States,,Business,0.0,,,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,12.0,0.0,0.0,0.0,false,false
+0012o00002sPFyp,Standard,Illinois,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - Central Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPFz0,Standard,California,United States,HG Insights,Business,0.0,10.000+,Banking & Financial Services,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,100.0,100.0,0.0,false,false
+0012o00002h3GRo,Standard,minas gerais,brazil,,Business,0.0,101-1000,Software & Technology,false,NA - Corporate & LATAM,RoW - LATAM,0.0,3.0,100.0,0.0,0.0,false,false
+0012o00002sPFyv,Standard,Colorado,United States,HG Insights,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",false,NA - Enterprise,NA - South - Enterprise,0.0,4.0,100.0,100.0,0.0,false,false
+0012o00002i7Qai,Standard,North Carolina,United States,,Business,0.0,,,false,NA - Corporate & LATAM,,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002h3GmH,Standard,minas gerais,brazil,,Business,0.0,101-1000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,RoW - LATAM,0.0,8.0,0.0,0.0,0.0,false,false
+0012o00002h3HZc,Standard,gelderland,netherlands,Marketing,Business,0.0,101-1000,Software & Technology,false,EMEA W,Benelux - Software & Consulting,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPFz7,Standard,Colorado,United States,HG Insights,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",false,NA - Enterprise,NA - South - Enterprise,0.0,0.0,100.0,100.0,0.0,false,false
+0012o00002i7QaJ,Standard,California,United States,,Business,0.0,21-100,Software & Technology,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002h3E63,Standard,hofudborgarsvaedi,Iceland,,Business,0.0,1001-5000,,true,EMEA N,RoW - Nordics,0.0,22.0,0.0,50.0,1.0,false,false
+0012o00002h3FZi,Standard,Baden-W\u00fcrttemberg,Germany,SDR,Business,0.0,101-1000,Banking & Financial Services,false,DACH,DACH - Banking,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPFyt,Standard,Iowa,United States,HG Insights,Business,0.0,5001-10.000,"Telecommunications, Media & Entertainment",false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPFz5,Standard,Tennessee,United States,HG Insights,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",false,NA - Enterprise,NA - Midwest - Enterprise,0.0,0.0,100.0,100.0,0.0,false,false
+0012o00002h3IGu,Standard,,austria,,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,48.0,0.0,0.0,3.0,false,false
+0012o00002i7Qau,Standard,hessen,germany,Marketing,Business,0.0,10.000+,Banking & Financial Services,false,DACH,DACH - Banking,0.0,10.0,100.0,100.0,0.0,false,false
+0012o00002sPFzS,Standard,Michigan,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,2.0,50.0,100.0,0.0,false,false
+0012o00002sPFzU,Standard,Illinois,United States,HG Insights,Business,0.0,5001-10.000,Other,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,1.0,0.0,0.0,0.0,false,false
+0012o00002h3Hgx,Standard,ZUID-HOLLAND,Netherlands,,Business,0.0,5001-10.000,Manufacturing,true,EMEA W,Benelux - Manufacturing,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPFzJ,Standard,New Mexico,United States,HG Insights,Business,0.0,10.000+,Healthcare,false,NA - Enterprise,NA - South - Enterprise,0.0,6.0,25.0,100.0,0.0,false,false
+0012o00002h3Mmd,Standard,santa fe,argentina,,Business,0.0,Less than 20,Software & Technology,false,NA - Corporate & LATAM,RoW - LATAM,0.0,61.0,100.0,0.0,0.0,false,false
+0012o00002h30cV,Standard,hessen,germany,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,116.0,0.0,0.0,3.0,false,false
+0012o00002i7QaI,Standard,,,,Business,0.0,21-100,Consulting & Business Services,false,,,0.0,16.0,50.0,0.0,0.0,false,false
+0012o00002sPFzP,Standard,Georgia,United States,HG Insights,Business,0.0,5001-10.000,Retail,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPKGc,Standard,Washington,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPFyu,Standard,Ohio,United States,HG Insights,Business,0.0,1001-5000,Insurance,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h3Ga6,Standard,wien,austria,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,1.0,0.0,0.0,0.0,false,false
+0012o00002h3M5z,Standard,rheinland-pfalz,germany,,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,1.0,0.0,0.0,0.0,false,false
+0012o00002sPFzO,Standard,South Carolina,United States,HG Insights,Business,0.0,10.000+,"Life Sciences, Pharma, & Biotech",false,NA - Enterprise,NA - Southeast - Enterprise,0.0,3.0,25.0,100.0,0.0,false,false
+0012o00002h3Fo0,Standard,sachsen,germany,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,1.0,0.0,0.0,0.0,false,false
+0012o00002sPFyo,Standard,Tennessee,United States,HG Insights,Business,0.0,10.000+,Healthcare,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,0.0,25.0,100.0,0.0,false,false
+0012o00002sPFyw,Standard,California,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002h3GPs,Standard,california,peru,Marketing,Business,0.0,5001-10.000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,RoW - LATAM,0.0,58.0,0.0,0.0,1.0,false,false
+0012o00002h3Mpi,Standard,karnataka,india,,Business,0.0,21-100,Software & Technology,false,APAC,RoW - APAC (Other),0.0,1.0,100.0,0.0,0.0,false,false
+0012o00002i7QbB,Standard,,Canada,,Business,0.0,,,false,NA - Corporate & LATAM,,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002i7QaH,Partner,IL,United States,Marketing,Partner,0.0,21-100,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,70.0,50.0,0.0,1.0,false,false
+0012o00002h3FML,Standard,sao paulo,brazil,Marketing,Business,0.0,21-100,Consulting & Business Services,false,NA - Corporate & LATAM,RoW - LATAM,0.0,8.0,50.0,0.0,0.0,false,false
+0012o00002h3G34,Standard,,Ireland,SDR,Business,0.0,1001-5000,,false,EMEA N,UKI - Software & Technology,0.0,3.0,0.0,50.0,0.0,false,false
+0012o00002sPFz2,Standard,Colorado,United States,HG Insights,Business,0.0,5001-10.000,Insurance,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002h3LNV,Standard,East Sussex,United Kingdom,SDR,Business,0.0,1001-5000,Insurance,false,EMEA N,UKI - Insurance & Healthcare,0.0,4.0,100.0,50.0,0.0,false,false
+0012o00002h3MEc,Standard,nordrhein-westfalen,germany,AE,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,131.0,0.0,0.0,1.0,false,false
+0012o00002h3MFG,Standard,tirol,austria,,Business,0.0,101-1000,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,2.0,0.0,0.0,0.0,false,false
+0012o00002sPFzI,Standard,Arizona,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPFzN,Standard,Michigan,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPFzE,Standard,Minnesota,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPFzT,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,5.0,100.0,50.0,0.0,false,false
+0012o00002sPFzB,Standard,Illinois,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h3M3K,Standard,berlin,germany,,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,1.0,0.0,0.0,0.0,false,false
+0012o00002sPFzK,Standard,Washington,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - West Enterprise,0.0,4.0,50.0,100.0,0.0,false,false
+0012o00002h3GU9,Standard,bayern,germany,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,16.0,0.0,0.0,0.0,false,false
+0012o00002sPFzG,Standard,North Carolina,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPFzL,Standard,Arizona,United States,HG Insights,Business,0.0,5001-10.000,Utilities,false,NA - Corporate & LATAM,NA - West Corporate,0.0,3.0,100.0,0.0,0.0,false,false
+0012o00002sPFzM,Standard,Florida,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - Southeast - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002h3MlW,Standard,lemesos,cyprus,Marketing,Business,0.0,1001-5000,"Public Sector, Government, Education",false,EMEA W,Middle East,0.0,11.0,0.0,50.0,0.0,false,false
+0012o00002h3Mph,Standard,maharashtra,india,Marketing,Business,0.0,Less than 20,Software & Technology,false,APAC,RoW - APAC (Other),0.0,2.0,100.0,0.0,0.0,false,false
+0012o00002h2cvu,Standard,minas gerais,brazil,SDR,Business,0.0,1001-5000,Software & Technology,true,NA - Corporate & LATAM,RoW - LATAM,0.0,61.0,100.0,50.0,0.0,false,false
+0012o00002i7QZq,Standard,,,,Business,0.0,,,false,,,0.0,14.0,0.0,0.0,0.0,false,false
+0012o00002i7QZr,Standard,,,,Business,0.0,,,false,,,0.0,5.0,0.0,0.0,0.0,false,false
+0012o00002h30e2,Standard,nordrhein-westfalen,germany,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002i7Qa9,Standard,ALBERTA,Canada,Marketing,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Canada - Corporate,0.0,3.0,50.0,50.0,0.0,false,false
+0012o00002h36Wg,Standard,,,,Business,0.0,,"Public Sector, Government, Education",false,EMEA W,RoW - E Europe,0.0,5.0,0.0,0.0,0.0,false,false
+0012o00002sPFyl,Standard,California,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002h3FkX,Partner,zurich,switzerland,Marketing,Partner,0.0,101-1000,Software & Technology,false,DACH,DACH - Whitepatch <5K,0.0,302.0,100.0,0.0,9.0,false,false
+0012o00002sPFyx,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h3GT6,Standard,,united kingdom,,Business,0.0,101-1000,,false,EMEA N,UKI - Software & Technology,0.0,59.0,0.0,0.0,0.0,false,false
+0012o00002sPFyy,Standard,Illinois,United States,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,5.0,100.0,50.0,0.0,false,false
+0012o00002sPFz1,Standard,Arkansas,United States,HG Insights,Business,0.0,5001-10.000,"Telecommunications, Media & Entertainment",false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPFz3,Standard,New Jersey,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPFz6,Standard,California,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - West Corporate,0.0,2.0,50.0,50.0,0.0,false,false
+0012o00002h3LIj,Standard,baden-wurttemberg,germany,,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,24.0,0.0,0.0,0.0,false,false
+0012o00002h3LzX,Standard,dhaka,bangladesh,Marketing,Business,0.0,101-1000,Software & Technology,false,APAC,RoW - APAC (Other),0.0,2.0,100.0,0.0,0.0,false,false
+0012o00002h3M2g,Standard,masqat,oman,Marketing,Business,0.0,Less than 20,Software & Technology,false,EMEA W,Middle East,0.0,2.0,100.0,0.0,0.0,false,false
+0012o00002h3Mq6,Standard,karnataka,india,Marketing,Business,0.0,1001-5000,Software & Technology,false,APAC,RoW - APAC (Other),0.0,4.0,100.0,50.0,0.0,false,false
+0012o00002sPFzQ,Standard,California,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPFzR,Standard,Minnesota,United States,HG Insights,Business,0.0,1001-5000,Insurance,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,2.0,100.0,50.0,0.0,false,false
+0012o00002sPFzZ,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h3MrE,Standard,praha,czech republic,Marketing,Business,0.0,Less than 20,"Telecommunications, Media & Entertainment",false,EMEA W,RoW - E Europe,0.0,24.0,100.0,0.0,0.0,false,false
+0012o00002h3OPu,Standard,tennessee,united states,Marketing,Business,0.0,21-100,Other,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002i7QbL,Standard,Illinois,United States,,Business,0.0,,,false,NA - Corporate & LATAM,,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002h3MyA,Partner,TG,India,Community,Partner,0.0,21-100,Software & Technology,false,APAC,RoW - APAC (Other),0.0,2231.0,100.0,0.0,53.0,false,false
+0012o00002sPFza,Standard,Tennessee,United States,HG Insights,Business,0.0,10.000+,Healthcare,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,0.0,25.0,100.0,0.0,false,false
+0012o00002sPKGi,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKGl,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h3QKO,Standard,Gauteng,South Africa,SDR,Business,0.0,5001-10.000,Insurance,true,EMEA W,Africa,0.0,25.0,100.0,0.0,0.0,false,false
+0012o00002i7QbW,Standard,ONTARIO,Canada,,Business,0.0,10.000+,"Public Sector, Government, Education",false,NA - Enterprise,NA - Canada - Enterprise,0.0,0.0,0.0,100.0,0.0,false,false
+0012o00002sPFzY,Standard,Michigan,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002h3MyB,Standard,lagos,nigeria,Marketing,Business,0.0,101-1000,Banking & Financial Services,false,EMEA W,Africa,0.0,6.0,100.0,0.0,0.0,false,false
+0012o00002h3MrY,Standard,guatemala,guatemala,Marketing,Business,0.0,Less than 20,"Telecommunications, Media & Entertainment",false,NA - Corporate & LATAM,RoW - LATAM,0.0,3.0,100.0,0.0,0.0,false,false
+0012o00002sPKGv,Standard,California,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - West Corporate,0.0,21.0,50.0,50.0,1.0,false,false
+0012o00002sPFzv,Standard,California,United States,HG Insights,Business,0.0,1001-5000,Other,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPKH6,Standard,Georgia,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPG04,Standard,North Carolina,United States,HG Insights,Business,0.0,5001-10.000,Utilities,false,NA - Enterprise,NA - Southeast - Enterprise,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002h3zml,Standard,sao paulo,brazil,Marketing,Business,0.0,Less than 20,,false,NA - Corporate & LATAM,RoW - LATAM,0.0,22.0,0.0,0.0,1.0,false,false
+0012o00002h3Myo,Standard,sharjah,United Arab Emirates,SDR,Business,0.0,1001-5000,Banking & Financial Services,false,EMEA W,Middle East,0.0,7.0,100.0,50.0,0.0,false,false
+0012o00002h3OQJ,Standard,pennsylvania,united states,Marketing,Business,0.0,21-100,Software & Technology,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,4.0,100.0,0.0,0.0,false,false
+0012o00002h3ldt,Standard,Ohio,United States,SDR,Business,0.0,10.000+,Banking & Financial Services,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,4.0,100.0,100.0,0.0,false,false
+0012o00002h3pLG,Standard,cojedes,venezuela,Marketing,Business,0.0,Less than 20,Software & Technology,false,NA - Corporate & LATAM,RoW - LATAM,0.0,12.0,100.0,0.0,1.0,false,false
+0012o00002sPKHA,Standard,Vermont,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002h3zdA,Standard,,Germany,,Business,0.0,,Other,false,DACH,DACH - Whitepatch <5K,0.0,108.0,0.0,0.0,0.0,false,false
+0012o00002h3Mqf,Standard,addis ababa,ethiopia,Marketing,Business,0.0,Less than 20,Logistics & Transportation,false,EMEA W,Africa,0.0,2.0,75.0,0.0,0.0,false,false
+0012o00002sPFzX,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPFzi,Standard,Minnesota,United States,HG Insights,Business,0.0,1001-5000,Insurance,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPKGr,Standard,Illinois,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h3Qa8,Standard,goa,india,Marketing,Business,0.0,Less than 20,Software & Technology,false,APAC,RoW - APAC (Other),0.0,6.0,100.0,0.0,0.0,false,false
+0012o00002sPFzr,Standard,Kentucky,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPKGn,Standard,Illinois,United States,HG Insights,Business,0.0,10.000+,Consulting & Business Services,false,NA - Enterprise,NA - Central Enterprise,0.0,27.0,50.0,100.0,0.0,false,false
+0012o00002sPFzm,Standard,Maryland,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - DC Metro - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPFzu,Standard,Colorado,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - South - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPKGe,Standard,Massachusetts,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPG03,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,"Telecommunications, Media & Entertainment",false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,4.0,100.0,50.0,0.0,false,false
+0012o00002sPKHH,Standard,Illinois,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPKGp,Standard,Florida,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,1.0,50.0,50.0,0.0,false,false
+0012o00002sPFzp,Standard,Ohio,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h3QpV,Standard,madhya pradesh,india,Marketing,Business,0.0,101-1000,Other,false,APAC,RoW - APAC (Other),0.0,1.0,0.0,0.0,0.0,false,false
+0012o00002sPKGw,Standard,Georgia,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPKGy,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPKGx,Standard,Alabama,United States,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002sPKH0,Standard,Pennsylvania,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKH4,Standard,Maryland,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002h3O83,Standard,,united kingdom,,Business,0.0,Less than 20,,false,EMEA N,UKI - Software & Technology,0.0,51.0,0.0,0.0,0.0,false,false
+0012o00002sPFzd,Standard,Connecticut,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPFzj,Standard,Ohio,United States,HG Insights,Business,0.0,10.000+,Healthcare,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,3.0,25.0,100.0,0.0,false,false
+0012o00002sPFzs,Standard,California,United States,HG Insights,Business,0.0,10.000+,Utilities,false,NA - Enterprise,NA - West Enterprise,0.0,0.0,100.0,100.0,0.0,false,false
+0012o00002h3R67,Standard,Baden-W\u00fcrttemberg,Germany,SDR,Business,0.0,1001-5000,Retail,false,DACH,DACH - Retail,0.0,1.0,50.0,50.0,0.0,false,false
+0012o00002sPKH3,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPFzx,Standard,California,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKH5,Standard,North Carolina,United States,HG Insights,Business,0.0,5001-10.000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002sPFzw,Standard,New York,United States,HG Insights,Business,0.0,5001-10.000,"Telecommunications, Media & Entertainment",false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPKH7,Standard,New Jersey,United States,HG Insights,Business,0.0,10.000+,Logistics & Transportation,false,NA - Enterprise,NA - DC Metro - Enterprise,0.0,0.0,75.0,100.0,0.0,false,false
+0012o00002h3nkq,Standard,hessen,germany,Marketing,Business,0.0,21-100,Software & Technology,false,DACH,DACH - Whitepatch <5K,0.0,6.0,100.0,0.0,0.0,false,false
+0012o00002sPKHC,Standard,South Carolina,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPKGs,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPG0B,Standard,California,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - West Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPKHK,Standard,Texas,United States,HG Insights,Business,0.0,5001-10.000,Retail,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h3QOf,Standard,,United Arab Emirates,SDR,Business,0.0,101-1000,Banking & Financial Services,false,EMEA W,Middle East,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPKH1,Standard,Pennsylvania,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002h3Qst,Standard,dhaka,bangladesh,Marketing,Business,0.0,Less than 20,Other,false,APAC,RoW - APAC (Other),0.0,2.0,0.0,0.0,0.0,false,false
+0012o00002h3ntw,Standard,lagos,nigeria,Marketing,Business,0.0,10.000+,Banking & Financial Services,false,EMEA W,Africa,0.0,6.0,100.0,100.0,0.0,false,false
+0012o00002sPKGd,Standard,Michigan,United States,HG Insights,Business,0.0,1001-5000,Non-profit,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPFzW,Standard,New Jersey,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - DC Metro - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002h3Mye,Standard,Sachsen,Germany,,Business,0.0,21-100,Non-profit,false,DACH,DACH - Whitepatch <5K,0.0,17.0,0.0,0.0,0.0,false,false
+0012o00002sPFzf,Standard,Kentucky,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPKGq,Standard,Missouri,United States,HG Insights,Business,0.0,1001-5000,Insurance,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPKGk,Standard,Florida,United States,HG Insights,Business,0.0,1001-5000,"Telecommunications, Media & Entertainment",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPFzo,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h3QrC,Standard,dhaka,bangladesh,Marketing,Business,0.0,Less than 20,Banking & Financial Services,false,APAC,RoW - APAC (Other),0.0,2.0,100.0,0.0,0.0,false,false
+0012o00002h3QKx,Standard,cluj,romania,Marketing,Business,0.0,Less than 20,Software & Technology,false,EMEA W,RoW - E Europe,0.0,14.0,100.0,0.0,0.0,false,false
+0012o00002sPKH2,Standard,California,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPKH8,Standard,Maryland,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPG00,Standard,North Carolina,United States,HG Insights,Business,0.0,10.000+,Consulting & Business Services,false,NA - Enterprise,NA - Southeast - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPG02,Standard,Massachusetts,United States,HG Insights,Business,0.0,1001-5000,Insurance,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h3ral,Partner,NY,United States,Marketing,Partner,0.0,10.000+,Other,false,NA - Enterprise,NA - Northeast Enterprise,0.0,1227.0,0.0,100.0,2.0,false,false
+0012o00002sPOtp,Standard,Baden-W\u00fcrttemberg,Germany,HG Insights,Business,0.0,1001-5000,Automotive,false,DACH,DACH - Automotive,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKGh,Standard,Illinois,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - Central Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPKGo,Standard,Pennsylvania,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPKGu,Standard,Indiana,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h3Qo3,Standard,,Azerbaijan,SDR,Business,0.0,1001-5000,Banking & Financial Services,false,EMEA W,Africa,0.0,2.0,100.0,50.0,0.0,false,false
+0012o00002h3oAB,Standard,sankt gallen,switzerland,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002sPKHO,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002h42ER,Standard,zurich,switzerland,Marketing,Business,0.0,21-100,Consulting & Business Services,false,DACH,DACH - Whitepatch <5K,0.0,62.0,50.0,0.0,0.0,false,false
+0012o00002sPFzV,Standard,Missouri,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPFzt,Standard,Texas,United States,HG Insights,Business,0.0,5001-10.000,Utilities,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,1.0,100.0,0.0,0.0,false,false
+0012o00002sPG01,Standard,Arizona,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - West Corporate,0.0,3.0,50.0,0.0,0.0,false,false
+0012o00002h42EV,Standard,pesaro and urbino,italy,Marketing,Business,0.0,Less than 20,Consulting & Business Services,false,EMEA W,Mediterranean,0.0,12.0,50.0,0.0,0.0,false,false
+0012o00002sPFzb,Standard,California,United States,HG Insights,Business,0.0,10.000+,Consulting & Business Services,false,NA - Enterprise,NA - West Enterprise,0.0,5.0,50.0,100.0,0.0,false,false
+0012o00002sPKHP,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPKHI,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Non-profit,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002h40ci,Standard,hessen,germany,Marketing,Business,0.0,101-1000,Software & Technology,false,DACH,DACH - Whitepatch <5K,0.0,16.0,100.0,0.0,1.0,false,false
+0012o00002sPKHN,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPOtq,Standard,Nordrhein-Westfalen,Germany,HG Insights,Business,0.0,1001-5000,Retail,false,DACH,DACH - Retail,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPG0J,Standard,Illinois,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h41yS,Standard,,Luxembourg,,Business,0.0,1001-5000,Banking & Financial Services,false,EMEA W,Benelux - Banking & Insurance,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPG0K,Standard,Texas,United States,HG Insights,Business,0.0,5001-10.000,Insurance,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPKH9,Standard,Ohio,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h3rih,Standard,florida,united states,Marketing,Business,0.0,Less than 20,Other,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002sPKHB,Standard,Pennsylvania,United States,HG Insights,Business,0.0,10.000+,"Public Sector, Government, Education",false,NA - Enterprise,NA - DC Metro - Enterprise,0.0,0.0,0.0,100.0,0.0,false,false
+0012o00002sPG07,Standard,Maryland,United States,HG Insights,Business,0.0,10.000+,"Public Sector, Government, Education",false,NA - Enterprise,NA - DC Metro - Enterprise,0.0,0.0,0.0,100.0,0.0,false,false
+0012o00002sPKHE,Standard,Massachusetts,United States,HG Insights,Business,0.0,5001-10.000,Retail,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h40Mi,Standard,hessen,Germany,Marketing,Business,0.0,10.000+,Consulting & Business Services,false,DACH,DACH - Whitepatch 5K+,0.0,14.0,50.0,100.0,0.0,false,false
+0012o00002h40Ur,Standard,berlin,germany,Marketing,Business,0.0,Less than 20,Software & Technology,false,DACH,DACH - Whitepatch <5K,0.0,267.0,100.0,0.0,0.0,false,false
+0012o00002sPG0D,Standard,Pennsylvania,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPG0E,Standard,Minnesota,United States,HG Insights,Business,0.0,5001-10.000,Non-profit,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,1.0,0.0,0.0,0.0,false,false
+0012o00002h40hx,Standard,,germany,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,6.0,0.0,0.0,0.0,false,false
+0012o00002h41EP,Standard,Bayern,germany,Marketing,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,16.0,50.0,50.0,0.0,false,false
+0012o00002sPG0F,Standard,Illinois,United States,HG Insights,Business,0.0,5001-10.000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002h41uv,Standard,N/A,Luxembourg,Zoominfo,Business,0.0,1001-5000,Banking & Financial Services,false,EMEA W,Benelux - Banking & Insurance,0.0,11.0,100.0,50.0,1.0,false,false
+0012o00002sPG05,Standard,Texas,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPG06,Standard,North Carolina,United States,HG Insights,Business,0.0,10.000+,"Public Sector, Government, Education",false,NA - Enterprise,NA - Southeast - Enterprise,0.0,13.0,0.0,100.0,0.0,false,false
+0012o00002sPG0A,Standard,Massachusetts,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h40nb,Standard,tunis,tunisia,Marketing,Business,0.0,Less than 20,,false,EMEA W,Africa,0.0,3.0,0.0,0.0,0.0,false,false
+0012o00002sPKHQ,Standard,Connecticut,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKGf,Standard,Florida,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPKGg,Standard,Georgia,United States,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,7.0,100.0,50.0,0.0,false,false
+0012o00002sPFzh,Standard,North Carolina,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPFzk,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,6.0,50.0,50.0,0.0,false,false
+0012o00002sPFzn,Standard,Pennsylvania,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPFzz,Standard,Indiana,United States,HG Insights,Business,0.0,5001-10.000,"Life Sciences, Pharma, & Biotech",false,NA - Corporate & LATAM,NA - Central Corporate,0.0,6.0,25.0,0.0,0.0,false,false
+0012o00002h40qG,Standard,,Iran,Marketing,Business,0.0,Less than 20,,false,EMEA W,Middle East,0.0,187.0,0.0,0.0,0.0,false,false
+0012o00002sPFzy,Standard,Tennessee,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPKHD,Standard,Ohio,United States,HG Insights,Business,0.0,1001-5000,Insurance,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPKHG,Standard,Illinois,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKHM,Standard,New Jersey,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPOtt,Standard,Baden-W\u00fcrttemberg,Germany,HG Insights,Business,0.0,1001-5000,Utilities,false,DACH,DACH - Utilities,0.0,7.0,100.0,50.0,1.0,false,false
+0012o00002sPG08,Standard,Nevada,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h40sb,Standard,budapest,hungary,Marketing,Business,0.0,Less than 20,Software & Technology,false,EMEA W,RoW - E Europe,0.0,26.0,100.0,0.0,0.0,false,false
+0012o00002sPG0I,Standard,Ohio,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPOts,Standard,Hamburg,Germany,HG Insights,Business,0.0,10.000+,Retail,false,DACH,DACH - Retail,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPKGt,Standard,Minnesota,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKGz,Standard,Tennessee,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h3Thb,Standard,attiki,greece,Marketing,Business,0.0,101-1000,"Public Sector, Government, Education",true,EMEA W,Mediterranean,0.0,12.0,0.0,0.0,0.0,false,false
+0012o00002h3olc,Standard,,,,Business,0.0,1001-5000,Banking & Financial Services,true,NA - Corporate & LATAM,RoW - LATAM,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPG09,Standard,Illinois,United States,HG Insights,Business,0.0,1001-5000,Insurance,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,1.0,100.0,50.0,0.0,false,false
+0012o00002sPG0G,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPKHL,Standard,Illinois,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPOto,Standard,Nordrhein-Westfalen,Germany,HG Insights,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,1.0,50.0,50.0,0.0,false,false
+0012o00002sPKHR,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKHJ,Standard,Utah,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPOtr,Standard,Niedersachsen,Germany,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPG0H,Standard,Texas,United States,HG Insights,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",false,NA - Enterprise,NA - South - Enterprise,0.0,1.0,100.0,100.0,0.0,false,false
+0012o00002sPKGj,Standard,Missouri,United States,HG Insights,Business,0.0,1001-5000,"Life Sciences, Pharma, & Biotech",false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002h3OGM,Standard,Geneva,france,,Business,0.0,1001-5000,Software & Technology,true,EMEA W,France - Software & Consulting,0.0,1.0,100.0,50.0,0.0,false,false
+0012o00002sPFzc,Standard,Texas,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPFze,Standard,Maryland,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPKGm,Standard,Alabama,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h3OcP,Standard,distrito federal,brazil,Marketing,Business,0.0,Less than 20,"Public Sector, Government, Education",true,NA - Corporate & LATAM,RoW - LATAM,0.0,69.0,0.0,0.0,0.0,false,false
+0012o00002sPFzg,Standard,Idaho,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002h3QMj,Standard,gauteng,South Africa,SDR,Business,0.0,1001-5000,Banking & Financial Services,false,EMEA W,Africa,0.0,8.0,100.0,50.0,0.0,false,false
+0012o00002sPOtu,Standard,Baden-W\u00fcrttemberg,Germany,HG Insights,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h42C0,Standard,N/A,Italy,Marketing,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",true,EMEA W,Mediterranean,0.0,12.0,100.0,100.0,0.0,false,false
+0012o00002sPKHF,Standard,Louisiana,United States,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002sPG0C,Standard,Oregon,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - West Corporate,0.0,1.0,50.0,0.0,0.0,false,false
+0012o00002i7Qbx,Standard,California,United States,,Business,0.0,,,false,NA - Corporate & LATAM,,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002sPFzl,Standard,North Carolina,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - Southeast - Enterprise,0.0,28.0,50.0,100.0,2.0,false,false
+0012o00002sPFzq,Standard,Missouri,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h42GC,Standard,hessen,germany,Marketing,Business,0.0,1001-5000,Banking & Financial Services,false,DACH,DACH - Banking,0.0,20.0,100.0,50.0,0.0,false,false
+0012o00002sPKHh,Standard,Nebraska,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h42HA,Standard,zurich,switzerland,Marketing,Business,0.0,21-100,"Life Sciences, Pharma, & Biotech",false,DACH,DACH - Healthcare and Pharma,0.0,193.0,25.0,0.0,0.0,false,false
+0012o00002sPG0L,Standard,Tennessee,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPOu1,Standard,Bayern,Germany,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPOtv,Standard,Nordrhein-Westfalen,Germany,HG Insights,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPG0M,Standard,Illinois,United States,HG Insights,Business,0.0,10.000+,Unknown,false,NA - Enterprise,NA - Central Enterprise,0.0,0.0,0.0,100.0,0.0,false,false
+0012o00002sPG0O,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,64.0,50.0,50.0,0.0,false,false
+0012o00002sPG0N,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h42ZG,Standard,,Luxembourg,AE,Business,0.0,101-1000,Banking & Financial Services,false,EMEA W,Benelux - Banking & Insurance,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPOtz,Standard,Bayern,Germany,HG Insights,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKHY,Standard,Florida,United States,HG Insights,Business,0.0,5001-10.000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002h4362,Standard,Brussels Capital,Belgium,Zoominfo,Business,0.0,1001-5000,Insurance,false,EMEA W,Benelux - Banking & Insurance,0.0,28.0,100.0,50.0,0.0,false,false
+0012o00002sPG0X,Standard,Massachusetts,United States,HG Insights,Business,0.0,10.000+,Logistics & Transportation,false,NA - Enterprise,NA - Northeast Enterprise,0.0,0.0,75.0,100.0,0.0,false,false
+0012o00002sPKHe,Standard,Florida,United States,HG Insights,Business,0.0,1001-5000,Non-profit,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002h47th,Standard,bihar,india,Marketing,Business,0.0,Less than 20,,false,APAC,RoW - APAC (Other),0.0,2.0,0.0,0.0,0.0,false,false
+0012o00002sPOuA,Standard,Hessen,Germany,HG Insights,Business,0.0,10.000+,Retail,false,DACH,DACH - Retail,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPG0e,Standard,Michigan,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,2.0,50.0,100.0,0.0,false,false
+0012o00002i7QcQ,Standard,,,,Business,0.0,,Consulting & Business Services,false,,,0.0,8.0,50.0,0.0,0.0,false,false
+0012o00002h49Fp,Standard,Hovedstaden,Denmark,,Business,0.0,5001-10.000,"Telecommunications, Media & Entertainment",true,EMEA N,RoW - Nordics,0.0,2.0,100.0,0.0,0.0,false,false
+0012o00002sPOuO,Standard,Sachsen,Germany,HG Insights,Business,0.0,1001-5000,Retail,false,DACH,DACH - Retail,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h42HF,Standard,baden-wurttemberg,germany,Marketing,Business,0.0,10.000+,Software & Technology,false,DACH,DACH - Whitepatch 5K+,0.0,312.0,100.0,100.0,0.0,false,false
+0012o00002sPKHV,Standard,Washington,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPOuF,Standard,Baden-W\u00fcrttemberg,Germany,HG Insights,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPG0m,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPG0p,Standard,New York,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - Northeast Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPOu2,Standard,Nordrhein-Westfalen,Germany,HG Insights,Business,0.0,1001-5000,"Life Sciences, Pharma, & Biotech",false,DACH,DACH - Healthcare and Pharma,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPG0Z,Standard,Massachusetts,United States,HG Insights,Business,0.0,10.000+,Utilities,false,NA - Enterprise,NA - Northeast Enterprise,0.0,0.0,100.0,100.0,0.0,false,false
+0012o00002sPOu8,Standard,Nordrhein-Westfalen,Germany,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,DACH,DACH - Banking,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h48Ax,Standard,wien,austria,Marketing,Business,0.0,101-1000,"Public Sector, Government, Education",false,DACH,DACH - Public Sector,0.0,19.0,0.0,0.0,0.0,false,false
+0012o00002sPKHd,Standard,Virginia,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPG0b,Standard,Louisiana,United States,HG Insights,Business,0.0,10.000+,Non-profit,false,NA - Enterprise,NA - South - Enterprise,0.0,17.0,0.0,100.0,0.0,false,false
+0012o00002sPKHp,Standard,California,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002h4Ck0,Standard,volgogradskaya oblast,Russia,Marketing,Business,0.0,Less than 20,Consulting & Business Services,false,EMEA W,RoW - E Europe,0.0,3.0,50.0,0.0,0.0,false,false
+0012o00002sPG0i,Standard,New York,United States,HG Insights,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",false,NA - Enterprise,NA - Northeast Enterprise,0.0,0.0,100.0,100.0,0.0,false,false
+0012o00002sPKHr,Standard,Pennsylvania,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPOuJ,Standard,Hessen,Germany,HG Insights,Business,0.0,1001-5000,"Life Sciences, Pharma, & Biotech",false,DACH,DACH - Healthcare and Pharma,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPSuE,Standard,TROMS,Norway,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,EMEA N,RoW - Nordics,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002h4Ca0,Standard,lagos,nigeria,Marketing,Business,0.0,Less than 20,Consulting & Business Services,false,EMEA W,Africa,0.0,10.0,50.0,0.0,0.0,false,false
+0012o00002i7Qc6,Standard,Pennsylvania,United States,,Business,0.0,,,false,NA - Corporate & LATAM,,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002sPG0U,Standard,New Jersey,United States,HG Insights,Business,0.0,1001-5000,Insurance,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,6.0,100.0,50.0,0.0,false,false
+0012o00002sPKHW,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPOu0,Standard,Berlin,Germany,HG Insights,Business,0.0,10.000+,"Public Sector, Government, Education",false,DACH,DACH - Public Sector,0.0,0.0,0.0,100.0,0.0,false,false
+0012o00002h47ey,Standard,,Belgium,,Business,0.0,101-1000,Banking & Financial Services,false,EMEA W,Benelux - Banking & Insurance,0.0,2.0,100.0,0.0,1.0,false,false
+0012o00002sPG0T,Standard,New York,United States,HG Insights,Business,0.0,5001-10.000,"Telecommunications, Media & Entertainment",false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPKHi,Standard,California,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPKHk,Standard,Kentucky,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h48Bl,Standard,zurich,switzerland,Marketing,Business,0.0,1001-5000,Software & Technology,false,DACH,DACH - Whitepatch <5K,0.0,68.0,100.0,50.0,0.0,false,false
+0012o00002sPG0Q,Standard,Minnesota,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - Central Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPG0a,Standard,Louisiana,United States,HG Insights,Business,0.0,10.000+,Non-profit,false,NA - Enterprise,NA - South - Enterprise,0.0,4.0,0.0,100.0,0.0,false,false
+0012o00002h487u,Standard,sao paulo,brazil,Marketing,Business,0.0,Less than 20,,false,NA - Corporate & LATAM,RoW - LATAM,0.0,1.0,0.0,0.0,0.0,false,false
+0012o00002sPKHf,Standard,Mississippi,United States,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPOuD,Standard,Berlin,Germany,HG Insights,Business,0.0,1001-5000,Utilities,false,DACH,DACH - Utilities,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPOuN,Standard,AARGAU,Switzerland,HG Insights,Business,0.0,5001-10.000,Banking & Financial Services,false,DACH,DACH - Banking,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002h47UF,Standard,littoral,Cameroon,Marketing,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",false,EMEA W,Africa,0.0,0.0,100.0,100.0,0.0,false,false
+0012o00002sPKHc,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h487t,Standard,hessen,germany,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002h48LZ,Standard,Lower Saxony,Germany,Zoominfo,Business,0.0,10.000+,"Life Sciences, Pharma, & Biotech",false,DACH,DACH - Healthcare and Pharma,1.0,80.0,25.0,100.0,8.0,false,false
+0012o00002sPG0f,Standard,New Jersey,United States,HG Insights,Business,0.0,5001-10.000,Healthcare,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,25.0,0.0,0.0,false,false
+0012o00002sPG0l,Standard,Idaho,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPOty,Standard,Nordrhein-Westfalen,Germany,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,DACH,DACH - Logistics,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002sPG0V,Standard,California,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPG0o,Standard,Utah,United States,HG Insights,Business,0.0,10.000+,Logistics & Transportation,false,NA - Enterprise,NA - South - Enterprise,0.0,0.0,75.0,100.0,0.0,false,false
+0012o00002sPOuR,Standard,Bayern,Germany,HG Insights,Business,0.0,1001-5000,"Telecommunications, Media & Entertainment",false,DACH,DACH - Telco & Media <5K,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPG14,Standard,New Jersey,United States,HG Insights,Business,0.0,1001-5000,Other,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002h4GED,Standard,,Philippines,,Business,0.0,10.000+,Other,false,APAC,RoW - APAC (Prio),0.0,0.0,0.0,100.0,0.0,false,false
+0012o00002sPG1E,Standard,Iowa,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002i7Qcv,Standard,,United States,,Business,0.0,,,false,NA - Corporate & LATAM,,0.0,0.0,0.0,0.0,3.0,false,false
+0012o00002sPKIQ,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Other,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPKHS,Standard,Pennsylvania,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPG0P,Standard,Iowa,United States,HG Insights,Business,0.0,5001-10.000,Retail,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPOtx,Standard,Rheinland-Pfalz,Germany,HG Insights,Business,0.0,1001-5000,Retail,false,DACH,DACH - Retail,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h43Ea,Standard,,Belgium,,Business,0.0,1001-5000,Insurance,true,EMEA W,Benelux - Banking & Insurance,0.0,2.0,100.0,50.0,0.0,false,false
+0012o00002sPOu3,Standard,GEN\u00c8VE,Switzerland,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,DACH,DACH - Public Sector,0.0,1.0,0.0,50.0,1.0,false,false
+0012o00002sPKHm,Standard,North Carolina,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,1.0,0.0,50.0,0.0,false,false
+0012o00002sPG0n,Standard,Missouri,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKHx,Standard,Tennessee,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h42c4,Standard,Bayern,Germany,Marketing,Business,0.0,10.000+,Insurance,false,DACH,DACH - Insurance 5K+,0.0,493.0,100.0,100.0,8.0,false,false
+0012o00002sPG0W,Standard,Texas,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - South - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPOu9,Standard,Nordrhein-Westfalen,Germany,HG Insights,Business,0.0,1001-5000,"Life Sciences, Pharma, & Biotech",false,DACH,DACH - Healthcare and Pharma,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPG0g,Standard,Texas,United States,HG Insights,Business,0.0,10.000+,"Public Sector, Government, Education",false,NA - Enterprise,NA - South - Enterprise,0.0,2.0,0.0,100.0,0.0,false,false
+0012o00002sPKHs,Standard,Kentucky,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,1.0,50.0,50.0,0.0,false,false
+0012o00002sPOuL,Standard,Nordrhein-Westfalen,Germany,HG Insights,Business,0.0,5001-10.000,"Telecommunications, Media & Entertainment",false,DACH,DACH - Telco & Media 5K+,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPOu6,Standard,Baden-W\u00fcrttemberg,Germany,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,DACH,DACH - Logistics,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002sPOu4,Standard,Baden-W\u00fcrttemberg,Germany,HG Insights,Business,0.0,1001-5000,Retail,false,DACH,DACH - Retail,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKHg,Standard,Tennessee,United States,HG Insights,Business,0.0,5001-10.000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h48Ju,Standard,baden-wurttemberg,germany,Marketing,Business,0.0,101-1000,Consulting & Business Services,false,DACH,DACH - Whitepatch <5K,0.0,7.0,50.0,0.0,1.0,false,false
+0012o00002sPKHv,Standard,Arkansas,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002h4ClD,Standard,,germany,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,110.0,0.0,0.0,0.0,false,false
+0012o00002sPG0s,Standard,Florida,United States,HG Insights,Business,0.0,5001-10.000,Banking & Financial Services,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002sPKHy,Standard,Maryland,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPG0z,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,1.0,50.0,50.0,0.0,false,false
+0012o00002sPOub,Standard,Wien,Austria,HG Insights,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,11.0,50.0,50.0,0.0,false,false
+0012o00002sPOuE,Standard,Nordrhein-Westfalen,Germany,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,DACH,DACH - Logistics,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002sPKHo,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPG0k,Standard,Illinois,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPOuH,Standard,Bayern,Germany,HG Insights,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPOuK,Standard,Nordrhein-Westfalen,Germany,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,DACH,DACH - Logistics,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002sPOuX,Standard,THURGAU,Switzerland,HG Insights,Business,0.0,1001-5000,Retail,false,DACH,DACH - Retail,0.0,16.0,50.0,50.0,1.0,false,false
+0012o00002i7Qcj,Standard,Quebec,Canada,,Business,0.0,,,false,NA - Corporate & LATAM,,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002sPKI9,Standard,Missouri,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPKIA,Standard,Connecticut,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPOue,Standard,Bayern,Germany,HG Insights,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKIE,Standard,Ohio,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPOuj,Standard,Tirol,Austria,HG Insights,Business,0.0,1001-5000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPG1F,Standard,Ohio,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPKI0,Standard,Colorado,United States,HG Insights,Business,0.0,10.000+,Retail,false,NA - Enterprise,NA - South - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002i7Qcw,Standard,Municipiul Bucure\u0219ti,Romania,,Business,0.0,1001-5000,"Telecommunications, Media & Entertainment",false,EMEA W,RoW - E Europe,0.0,8.0,100.0,50.0,3.0,false,false
+0012o00002sPOul,Standard,Sachsen,Germany,HG Insights,Business,0.0,1001-5000,Utilities,false,DACH,DACH - Utilities,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h4I17,Standard,brandenburg,germany,Marketing,Business,0.0,Less than 20,Consulting & Business Services,false,DACH,DACH - Whitepatch <5K,0.0,2.0,50.0,0.0,0.0,false,false
+0012o00002sPG1L,Standard,Colorado,United States,HG Insights,Business,0.0,10.000+,Manufacturing,false,NA - Enterprise,NA - South - Enterprise,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002sPOuz,Standard,Niedersachsen,Germany,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,DACH,DACH - Whitepatch <5K,0.0,1.0,50.0,50.0,0.0,false,false
+0012o00002sPG0S,Standard,Iowa,United States,HG Insights,Business,0.0,1001-5000,Utilities,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,4.0,100.0,50.0,0.0,false,false
+0012o00002sPG0R,Standard,Georgia,United States,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,1.0,50.0,50.0,0.0,false,false
+0012o00002sPKHb,Standard,Ohio,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPKHZ,Standard,Massachusetts,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPOu5,Standard,Hamburg,Germany,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,DACH,DACH - Logistics,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002h482F,Standard,bayern,germany,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,6.0,0.0,0.0,0.0,false,false
+0012o00002sPOu7,Standard,Z\u00dcRICH,Switzerland,HG Insights,Business,0.0,5001-10.000,Insurance,false,DACH,DACH - Insurance 5K+,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002h4896,Standard,queensland,australia,Marketing,Business,0.0,Less than 20,,false,APAC,RoW - APAC (Prio),0.0,7.0,0.0,0.0,0.0,false,false
+0012o00002h4Cnx,Standard,West Yorkshire,united kingdom,Marketing,Business,0.0,5001-10.000,Consulting & Business Services,false,EMEA N,UKI - Software & Technology,0.0,2.0,50.0,0.0,0.0,false,false
+0012o00002sPKI4,Standard,Washington,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - West Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPKIB,Standard,Pennsylvania,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPG1B,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPG11,Standard,Kansas,United States,HG Insights,Business,0.0,10.000+,"Telecommunications, Media & Entertainment",false,NA - Enterprise,NA - Central Enterprise,0.0,0.0,100.0,100.0,0.0,false,false
+0012o00002sPG12,Standard,California,United States,HG Insights,Business,0.0,10.000+,"Public Sector, Government, Education",false,NA - Enterprise,NA - West Enterprise,0.0,0.0,0.0,100.0,0.0,false,false
+0012o00002h4DoO,Standard,hessen,germany,Marketing,Business,0.0,Less than 20,Software & Technology,false,DACH,DACH - Whitepatch <5K,0.0,7.0,100.0,0.0,0.0,false,false
+0012o00002sPSuI,Standard,HAUTS DE SEINE,France,HG Insights,Business,0.0,1001-5000,Utilities,false,EMEA W,France - Utilities,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPG13,Standard,Michigan,United States,HG Insights,Business,0.0,10.000+,Automotive,false,NA - Enterprise,NA - Midwest - Enterprise,0.0,5.0,50.0,100.0,0.0,false,false
+0012o00002sPG17,Standard,Ohio,United States,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002sPKID,Standard,Louisiana,United States,HG Insights,Business,0.0,1001-5000,"Telecommunications, Media & Entertainment",false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h4Cn9,Standard,nordrhein-westfalen,germany,Marketing,Business,0.0,Less than 20,Unknown,false,DACH,DACH - Whitepatch <5K,0.0,6.0,0.0,0.0,0.0,false,false
+0012o00002sPKHz,Standard,Nebraska,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPOuS,Standard,Z\u00dcRICH,Switzerland,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,DACH,DACH - Logistics,0.0,1.0,75.0,50.0,0.0,false,false
+0012o00002sPOuT,Standard,Hessen,Germany,HG Insights,Business,0.0,1001-5000,"Life Sciences, Pharma, & Biotech",false,DACH,DACH - Healthcare and Pharma,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002h4DAj,Standard,,Germany,Marketing,Business,0.0,21-100,Retail,false,DACH,DACH - Retail,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002sPSuH,Standard,HAINAUT,Belgium,HG Insights,Business,0.0,1001-5000,Manufacturing,false,EMEA W,Benelux - Manufacturing,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h4DxL,Standard,,,,Business,0.0,1001-5000,Banking & Financial Services,true,N/A,Mediterranean,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPOuf,Standard,Hessen,Germany,HG Insights,Business,0.0,1001-5000,"Life Sciences, Pharma, & Biotech",false,DACH,DACH - Healthcare and Pharma,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002h4G2g,Standard,Texas,United States,,Business,0.0,101-1000,Software & Technology,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,100.0,0.0,0.0,false,false
+0012o00002h4Cny,Standard,hamburg,germany,Marketing,Business,0.0,Less than 20,Consulting & Business Services,false,DACH,DACH - Whitepatch <5K,0.0,5.0,50.0,0.0,0.0,false,false
+0012o00002sPOuZ,Standard,Hessen,Germany,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,DACH,DACH - Logistics,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002sPKI1,Standard,Kentucky,United States,HG Insights,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPSuG,Standard,,Luxembourg,HG Insights,Business,0.0,1001-5000,Consulting & Business Services,false,EMEA W,Benelux - Software & Consulting,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h4CtE,Standard,bayern,germany,Marketing,Business,0.0,1001-5000,Consulting & Business Services,false,DACH,DACH - Whitepatch <5K,0.0,3.0,50.0,50.0,0.0,false,false
+0012o00002i7Qcn,Standard,,,,Business,0.0,,,false,,,0.0,0.0,0.0,0.0,0.0,false,false
+0012o00002sPSuJ,Standard,GARD,France,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,EMEA W,France - Banking,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPSuR,Standard,ZUID-HOLLAND,Netherlands,HG Insights,Business,0.0,1001-5000,"Life Sciences, Pharma, & Biotech",false,EMEA W,Benelux - Banking & Insurance,0.0,1.0,25.0,50.0,0.0,false,false
+0012o00002sPKIC,Standard,Tennessee,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - South - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPOuk,Standard,Nieder\u00f6sterreich,Austria,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h4I6d,Standard,sachsen,germany,Marketing,Business,0.0,101-1000,Software & Technology,false,DACH,DACH - Whitepatch <5K,0.0,52.0,100.0,0.0,0.0,false,false
+0012o00002sPG1H,Standard,South Carolina,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,3.0,50.0,0.0,0.0,false,false
+0012o00002sPG1I,Standard,North Carolina,United States,HG Insights,Business,0.0,1001-5000,Retail,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPSuP,Standard,ZUID-HOLLAND,Netherlands,HG Insights,Business,0.0,1001-5000,Retail,false,EMEA W,Benelux - Telco & Retail,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKIG,Standard,Texas,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - South - Corporate,0.0,17.0,0.0,50.0,0.0,false,false
+0012o00002sPKIM,Standard,Georgia,United States,HG Insights,Business,0.0,1001-5000,"Telecommunications, Media & Entertainment",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002h4IBq,Standard,cojedes,venezuela,Marketing,Business,0.0,Less than 20,Software & Technology,false,NA - Corporate & LATAM,RoW - LATAM,0.0,34.0,100.0,0.0,0.0,false,false
+0012o00002sPOuv,Standard,Bayern,Germany,HG Insights,Business,0.0,10.000+,Retail,false,DACH,DACH - Retail,0.0,0.0,50.0,100.0,0.0,false,false
+0012o00002h4JJo,Standard,,United Arab Emirates,SDR,Business,0.0,1001-5000,Banking & Financial Services,false,EMEA W,Middle East,0.0,1.0,100.0,50.0,0.0,false,false
+0012o00002sPG1W,Standard,Wisconsin,United States,HG Insights,Business,0.0,5001-10.000,Consulting & Business Services,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,23.0,50.0,0.0,1.0,false,false
+0012o00002sPG0t,Standard,Ohio,United States,HG Insights,Business,0.0,1001-5000,Insurance,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPG0y,Standard,New York,United States,HG Insights,Business,0.0,10.000+,Healthcare,false,NA - Enterprise,NA - Northeast Enterprise,0.0,0.0,25.0,100.0,0.0,false,false
+0012o00002sPOuY,Standard,Niedersachsen,Germany,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,0.0,50.0,0.0,0.0,false,false
+0012o00002h4Dhc,Standard,malopolskie,poland,Marketing,Business,0.0,Less than 20,,false,EMEA W,RoW - E Europe,0.0,86.0,0.0,0.0,0.0,false,false
+0012o00002h4DXK,Standard,new south wales,australia,Marketing,Business,0.0,Less than 20,Consulting & Business Services,false,APAC,RoW - APAC (Prio),0.0,4.0,50.0,0.0,0.0,false,false
+0012o00002sPOud,Standard,Salzburg,Austria,HG Insights,Business,0.0,1001-5000,Retail,false,DACH,DACH - Retail,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPSuM,Standard,AKERSHUS,Norway,HG Insights,Business,0.0,1001-5000,Retail,false,EMEA N,RoW - Nordics,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKIF,Standard,South Carolina,United States,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPOtw,Standard,Schleswig-Holstein,Germany,HG Insights,Business,0.0,1001-5000,Retail,false,DACH,DACH - Retail,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002h4G3P,Standard,Georgia,United States,Zoominfo,Business,0.0,1001-5000,Healthcare,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002sPKIL,Standard,Illinois,United States,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002sPOun,Standard,VAUD,Switzerland,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,DACH,DACH - Manufacturing,0.0,2.0,50.0,0.0,0.0,false,false
+0012o00002sPSuZ,Standard,PARIS,France,HG Insights,Business,0.0,1001-5000,Retail,false,EMEA W,France - Retail,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPKIS,Standard,New York,United States,HG Insights,Business,0.0,1001-5000,"Life Sciences, Pharma, & Biotech",false,NA - Corporate & LATAM,NA - Northeast Corporate,0.0,0.0,25.0,50.0,0.0,false,false
+0012o00002h4I9u,Standard,sankt-peterburg,Russia,Marketing,Business,0.0,1001-5000,Other,false,EMEA W,RoW - E Europe,0.0,1.0,0.0,50.0,0.0,false,false
+0012o00002sPSuW,Standard,BRUXELLES-CAPITALE,Belgium,HG Insights,Business,0.0,1001-5000,Logistics & Transportation,false,EMEA W,Benelux - Manufacturing,0.0,0.0,75.0,50.0,0.0,false,false
+0012o00002sPSuY,Standard,,France,HG Insights,Business,0.0,1001-5000,"Public Sector, Government, Education",false,EMEA W,France - Public & Non Profit,0.0,0.0,0.0,50.0,0.0,false,false
+0012o00002sPG1V,Standard,Pennsylvania,United States,HG Insights,Business,0.0,5001-10.000,Manufacturing,false,NA - Corporate & LATAM,NA - Southeast - Corporate,0.0,3.0,50.0,0.0,0.0,false,false
+0012o00002sPSun,Standard,NOORD-BRABANT,Netherlands,HG Insights,Business,0.0,1001-5000,Banking & Financial Services,false,EMEA W,Benelux - Banking & Insurance,0.0,0.0,100.0,50.0,0.0,false,false
+0012o00002sPKM8,Standard,Ohio,United States,HG Insights,Business,0.0,1001-5000,Manufacturing,false,NA - Corporate & LATAM,NA - Central Corporate,0.0,0.0,50.0,50.0,0.0,false,false
+0012o00002sPOuo,Standard,Schleswig-Holstein,Germany,HG Insights,Business,0.0,5001-10.000,"Public Sector, Government, Education",false,DACH,DACH - Public Sector,0.0,1.0,0.0,0.0,0.0,false,false
